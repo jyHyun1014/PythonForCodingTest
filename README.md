@@ -51,3 +51,33 @@
   - [5-10 음료수 얼려 먹기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter5/5-10.py)
   
   - [5-11 미로 탈출](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter5/5-11.py)
+  
+- [Chapter6 정렬](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/Chapter6)
+
+  - [6-1 선택 정렬](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-1.py)
+  
+  - [6-2 파이썬 Swap](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-2.py)
+  
+  - [6-3 삽입 정렬](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-3.py)
+  
+  - [6-4 퀵 정렬](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-4.py)
+  
+  - [6-5 파이썬의 장점을 살린 퀵 정렬](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-5.py)
+  
+  - [6-6 계수 정렬](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-6.py)
+  
+  - [6-7 sorted](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-7.py)
+  
+  - [6-8 sort](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-8.py)
+  
+  - [6-9 정렬 라이브러리에서 key를 활용](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-9.py)
+  
+  - [6-10 위에서 아래로](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-10.py)
+  
+  - [6-11 성적이 낮은 순서로 학생 출력하기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-11.py)
+  
+  - [6-12 두 배열의 원소 ](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-12.py)
+  
+  
+  
+  
