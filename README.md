@@ -78,6 +78,20 @@
   
   - [6-12 두 배열의 원소 ](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter6/6-12.py)
   
+- [Chapter7 이진 탐색](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/Chapter7)
+
+  - [7-1 순차 탐색](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter7/7-1.py)
+
+  - [7-2 재귀 함수로 구현한 이진 탐색](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter7/7-2.py)
   
-  
-  
+  - [7-3 반복문으로 구현한 이진 탐색](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter7/7-3.py)
+
+  - [7-4 빠르게 입력받기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter7/7-4.py)
+
+  - [7-5 부품 찾기(이진 탐색)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter7/7-5.py)
+
+  - [7-6 부품 찾기(계수 정렬)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter7/7-6.py)
+
+  - [7-7 부품 찾기(집합 자료형 이용)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter7/7-7.py)
+
+  - [7-8 떡볶이 떡 만들기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter7/7-8.py)
