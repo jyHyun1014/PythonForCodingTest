@@ -146,3 +146,20 @@
 
   - [10-9 커리큘럼](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter10/10-9.py)
 
+- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/기출문제) - 그리디 문제
+
+  - [01 모험가 길드](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/01.py)
+
+  - [02 곱하기 혹은 더하기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/02.py)
+
+  - [03 문자열 뒤집기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/03.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/03-M.py)
+
+  - [04 만들 수 없는 금액](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/04.py)
+
+  - [05 볼링공 고르기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/05.py)
+
+  - [06 무지의 먹방 라이브](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/06.py)
+
+- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/기출문제) - 구현 문제
+
+  - [07 럭키 스트레이트](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/07.py)
