@@ -163,3 +163,9 @@
 - [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/기출문제) - 구현 문제
 
   - [07 럭키 스트레이트](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/07.py)
+
+  - [08 문자열 재정렬](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/08.py)
+
+  - [09 문자열 압축](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/09.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/09-M.py)
+
+  - [10 자물쇠와 열쇠](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/10.py)
