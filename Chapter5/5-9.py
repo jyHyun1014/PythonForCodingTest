@@ -1,4 +1,5 @@
 # BFS 예제
+# 모든 간선의 비용이 동일할 때 BFS를 이용하여 최단거리를 찾을 수 있음
 
 from collections import deque
 
