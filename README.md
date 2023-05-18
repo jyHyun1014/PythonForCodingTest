@@ -146,26 +146,80 @@
 
   - [10-9 커리큘럼](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Chapter10/10-9.py)
 
-- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/기출문제) - 그리디 문제
+- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/Problems) - 그리디 문제
 
-  - [01 모험가 길드](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/01.py)
+  - [01 모험가 길드](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/01.py)
 
-  - [02 곱하기 혹은 더하기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/02.py)
+  - [02 곱하기 혹은 더하기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/02.py)
 
-  - [03 문자열 뒤집기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/03.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/03-M.py)
+  - [03 문자열 뒤집기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/03.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/03-M.py)
 
-  - [04 만들 수 없는 금액](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/04.py)
+  - [04 만들 수 없는 금액](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/04.py)
 
-  - [05 볼링공 고르기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/05.py)
+  - [05 볼링공 고르기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/05.py)
 
-  - [06 무지의 먹방 라이브](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/06.py)
+  - [06 무지의 먹방 라이브](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/06.py)
 
-- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/기출문제) - 구현 문제
+- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/Problems) - 구현 문제
 
-  - [07 럭키 스트레이트](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/07.py)
+  - [07 럭키 스트레이트](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/07.py)
 
-  - [08 문자열 재정렬](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/08.py)
+  - [08 문자열 재정렬](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/08.py)
 
-  - [09 문자열 압축](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/09.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/09-M.py)
+  - [09 문자열 압축](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/09.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/09-M.py)
 
-  - [10 자물쇠와 열쇠](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/기출문제/10.py)
+  - [10 자물쇠와 열쇠](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/10.py)
+  
+  - [11 뱀](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/11.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/11-M.py)
+
+  - [12 기둥과 보 설치](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/12.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/12-M.py)
+
+  - [13 치킨 배달](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/13.py)
+  
+  - [14 외벽 점검](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/14.py)
+  
+- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/Problems) - DFS/BFS 문제
+  
+  - [15 특정 거리의 도시 찾기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/15.py)
+  
+  - [16 연구소](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/16.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/16-M.py)
+  
+  - [17 경쟁적 전염](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/17.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/17-M.py)
+  
+  - [18 괄호 변환](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/18.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/18-M.py)
+  
+  - [19 연산자 끼워 넣기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/19.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/19-M.py)
+  
+  - [20 감시 피하기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/20.py)
+  
+  - [21 인구 이동](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/21.py)
+  
+  - [22 블록 이동하기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/22.py)
+  
+- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/Problems) - 정렬 문제
+  
+  - [23 국영수](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/23.py)
+  
+  - [24 안테나](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/24.py)
+  
+  - [25 실패율](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/25.py)
+  
+  - [26 카드 정렬하기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/26.py)
+  
+- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/Problems) - 이진 탐색 문제
+
+  - [27 정렬된 배열에서 특정 수의 개수 구하기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/27.py)
+  
+  - [28 고정점 찾기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/28.py)
+  
+  - [29 공유기 설치](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/29.py)
+  
+  - [30 가사 검색](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/30.py)
+  
+- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/Problems) - 다이나믹 프로그래밍 문제
+
+  - [31 금광](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/31.py)
+  
+  - [32 정수 삼각형](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/32.py)
+  
+  - [33 퇴사](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/33.py)
