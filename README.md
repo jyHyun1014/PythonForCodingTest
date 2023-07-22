@@ -223,3 +223,39 @@
   - [32 정수 삼각형](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/32.py)
   
   - [33 퇴사](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/33.py)
+  
+  - [34 병사 배치하기](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/34.py)
+  
+  - [35 못생긴 수](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/35.py)
+  
+  - [36 편집 거리](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/36.py)
+  
+- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/Problems) - 최단 경로 문제
+  
+  - [37 플로이드](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/37.py)
+  
+  - [38 정확한 순위](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/38.py)
+  
+  - [39 화성 탐사](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/39.py)
+  
+  - [40 숨바꼭질](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/40.py)
+  
+- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/Problems) - 그래프 이론 문제
+  
+  - [41 여행 계획](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/41.py)
+  
+  - [42 탐승구](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/42.py)
+  
+  - [43 어두운 길](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/43.py)
+  
+  - [44 행성 터널](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/44.py) [(내 풀이)](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/44-M.py)
+  
+  - [45 최종 순위](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/45.py)
+  
+- [기출](https://github.com/jyHyun1014/PythonForCodingTest/tree/main/Problems) - 2020년 상반기 삼성전자 기출문제
+  
+  - [46 아기 상어](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/46.py)
+  
+  - [47 청소년 상어](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/47.py)
+  
+  - [48 어른 상어](https://github.com/jyHyun1014/PythonForCodingTest/blob/main/Problems/48.py)
